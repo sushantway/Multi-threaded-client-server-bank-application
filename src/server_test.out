@@ -1,0 +1,1689 @@
+Number of records in records.txt is 5
+************************************************************************
+record:0
+101
+sushant
+1000.10
+************************************************************************
+record:1
+102
+chaudhari
+2000.50
+************************************************************************
+record:2
+103
+john
+3000.00
+************************************************************************
+record:3
+104
+freak
+3487.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+Connection accepted 
+handler assigned
+
+Connected to client id:5
+Connection accepted 
+handler assigned
+
+Connected to client id:6
+Connection accepted 
+handler assigned
+
+Connected to client id:8
+Connection accepted 
+handler assigned
+
+Connected to client id:10
+Connection accepted 
+handler assigned
+
+Connected to client id:12
+Connection accepted 
+handler assigned
+
+Connected to client id:14
+Connection accepted 
+handler assigned
+
+Connected to client id:16
+Connection accepted 
+handler assigned
+
+Connected to client id:18
+Connection accepted 
+handler assigned
+
+Connected to client id:20
+Connection accepted 
+handler assigned
+
+Connected to client id:22
+Connection accepted 
+handler assigned
+
+Connected to client id:24
+Connection accepted 
+handler assigned
+
+Connected to client id:26
+Connection accepted 
+handler assigned
+
+Connected to client id:28
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 988.10
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 976.10
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 964.10
+Connection accepted 
+handler assigned
+
+Connected to client id:30
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 952.10
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 940.10
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 928.10
+Connection accepted 
+handler assigned
+
+Connected to client id:32
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 916.10
+Connection accepted 
+handler assigned
+
+Connected to client id:34
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 904.10
+Connection accepted 
+handler assigned
+
+Connected to client id:36
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 892.10
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 880.10
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 868.10
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 856.10
+Connection accepted 
+handler assigned
+
+Connected to client id:38
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 844.10
+Connection accepted 
+handler assigned
+
+Connected to client id:40
+Connection accepted 
+handler assigned
+
+Connected to client id:42
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 832.10
+Connection accepted 
+handler assigned
+
+Connected to client id:44
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 820.10
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 808.10
+Connection accepted 
+handler assigned
+
+Connected to client id:46
+Connection accepted 
+handler assigned
+
+Connected to client id:48
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 796.10
+Connection accepted 
+handler assigned
+
+Connected to client id:50
+Connection accepted 
+handler assigned
+
+Connected to client id:52
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 784.10
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 772.10
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 760.10
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 748.10
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 736.10
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 724.10
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 712.10
+
+Data received from client
+Withdraw 12.00 from account 101
+
+12.00 withdrawn from account number 101
+
+Current balance for account 101 is 700.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 710.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 720.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 730.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 740.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 750.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 760.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 770.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 780.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 790.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 800.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 810.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 820.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 830.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 840.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 850.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 860.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 870.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 880.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 890.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 900.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 910.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 920.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 930.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 940.10
+
+Data received from client
+
+Deposit 10.000000 into account 101
+10.00 deposited to account number 101
+
+Current balance for account 101 is 950.10
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 1900.50
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 1800.50
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 1700.50
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 1600.50
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 1500.50
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 1400.50
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 1300.50
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 1200.50
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 1100.50
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 1000.50
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 900.50
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 800.50
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 700.50
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 600.50
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 500.50
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 400.50
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 300.50
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 200.50
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 100.50
+
+Data received from client
+Withdraw 100.00 from account 102
+
+100.00 withdrawn from account number 102
+
+Current balance for account 102 is 0.50
+
+Data received from client
+Withdraw 100.00 from account 102
+Requested amount exceeds account balance
+
+Data received from client
+Withdraw 100.00 from account 102
+Requested amount exceeds account balance
+
+Data received from client
+Withdraw 100.00 from account 102
+Requested amount exceeds account balance
+
+Data received from client
+Withdraw 100.00 from account 102
+Requested amount exceeds account balance
+
+Data received from client
+Withdraw 100.00 from account 102
+Requested amount exceeds account balance
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 4000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 5000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 6000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 7000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 8000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 9000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 10000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 11000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 12000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 13000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 14000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 15000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 16000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 17000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 18000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 19000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 20000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 21000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 22000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 23000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 24000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 25000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 26000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 27000.00
+
+Data received from client
+
+Deposit 1000.000000 into account 103
+1000.00 deposited to account number 103
+
+Current balance for account 103 is 28000.00
+
+Data received from client
+Withdraw 200.00 from account 104
+
+200.00 withdrawn from account number 104
+
+Current balance for account 104 is 3287.00
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+3287.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+
+200.00 withdrawn from account number 104
+
+Current balance for account 104 is 3087.00
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+3087.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+
+200.00 withdrawn from account number 104
+
+Current balance for account 104 is 2887.00
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+2887.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+
+200.00 withdrawn from account number 104
+
+Current balance for account 104 is 2687.00
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+2687.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+
+200.00 withdrawn from account number 104
+
+Current balance for account 104 is 2487.00
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+2487.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+
+200.00 withdrawn from account number 104
+
+Current balance for account 104 is 2287.00
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+2287.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+
+200.00 withdrawn from account number 104
+
+Current balance for account 104 is 2087.00
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+2087.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+
+200.00 withdrawn from account number 104
+
+Current balance for account 104 is 1887.00
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+1887.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+
+200.00 withdrawn from account number 104
+
+Current balance for account 104 is 1687.00
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+1687.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+
+200.00 withdrawn from account number 104
+
+Current balance for account 104 is 1487.00
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+1487.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+
+200.00 withdrawn from account number 104
+
+Current balance for account 104 is 1287.00
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+1287.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+
+200.00 withdrawn from account number 104
+
+Current balance for account 104 is 1087.00
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+1087.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+
+200.00 withdrawn from account number 104
+
+Current balance for account 104 is 887.00
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+887.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+
+200.00 withdrawn from account number 104
+
+Current balance for account 104 is 687.00
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+687.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+
+200.00 withdrawn from account number 104
+
+Current balance for account 104 is 487.00
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+487.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+
+200.00 withdrawn from account number 104
+
+Current balance for account 104 is 287.00
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+287.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+
+200.00 withdrawn from account number 104
+
+Current balance for account 104 is 87.00
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+87.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+Requested amount exceeds account balance
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+87.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+Requested amount exceeds account balance
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+87.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+Requested amount exceeds account balance
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+87.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+Requested amount exceeds account balance
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+87.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+Requested amount exceeds account balance
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+87.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+Requested amount exceeds account balance
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+87.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+Requested amount exceeds account balance
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+87.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
+Data received from client
+Withdraw 200.00 from account 104
+Requested amount exceeds account balance
+
+Number of records in records.txt is 5
+
+************************************************************************
+record:0
+101
+sushant
+950.10
+************************************************************************
+record:1
+102
+chaudhari
+0.50
+************************************************************************
+record:2
+103
+john
+28000.00
+************************************************************************
+record:3
+104
+freak
+87.00
+************************************************************************
+record:4
+105
+senota
+3209.58
+************************************************************************
+
